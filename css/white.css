@@ -389,3 +389,9 @@ pre code {
 .ttip:hover .text {
   visibility: visible;
 }
+
+#bs-example-navbar-collapse-1 {
+  background-image: url("../images/background_pattern.png");
+  background-repeat: repeat-x;
+  background-size: contain;
+}
