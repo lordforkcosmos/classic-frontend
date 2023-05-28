@@ -27,8 +27,19 @@
     { "addr": "0x0000000000000000000000000000000000000000", "name": "PLQ", "fullName": "Planq", "decimals": 18 }
   ],
   "tokens": [
-    { "addr": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45", "name": "STX", "fullName": "Stox", "decimals": 18 },
-    { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "fullName": "Hedge", "decimals": 18 }
+    { "addr": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C", "name": "USDC", "fullName": "USDC", "decimals": 6 },
+    { "addr": "0x765277EebeCA2e31912C9946eAe1021199B39C61", "name": "USDT", "fullName": "USDT", "decimals": 6 },
+    { "addr": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D", "name": "ETH", "fullName": "Ethereum", "decimals": 18 },
+    { "addr": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f", "name": "BUSD", "fullName": "BUSD", "decimals": 18 },
+    { "addr": "0xDaC69E9d3416619e1D860745AE674d3C9E832206", "name": "IDR", "fullName": "IDRQ", "decimals": 18 },
+    { "addr": "0xAe9255Ff79133f8722f1aC608745CE89fD7F5B61", "name": "CRHMUN", "fullName": "Careuhbulan", "decimals": 18 },
+    { "addr": "0x3ADcF20d7698918F3fd9d491AA2F4dd266fF2913", "name": "CRXA", "fullName": "CRXA Token", "decimals": 18 },
+    { "addr": "0xC6b6040DB11C41E87a484CAe882d67D715E0B9c4", "name": "DZ", "fullName": "DZstats", "decimals": 6 },
+    { "addr": "0x772d76C17088BEdF108692E8573033422F14d8d6", "name": "HOOP", "fullName": "Hoopers", "decimals": 18 },
+    { "addr": "0x2DdD5608D308901A98C0200DC77e8afCabbe982E", "name": "plXEN", "fullName": "Planq XEN", "decimals": 18 },
+    { "addr": "0x0105bd319e9fa00617499a0d3709d6734fb1b471", "name": "WEN", "fullName": "WEN", "decimals": 5 },
+    { "addr": "0xb480816b5Db2e93Fdc6B1E8a96393087955Cc6a2", "name": "SHC", "fullName": "ShitHeadCoin", "decimals": 5 },
+    { "addr": "0xF03730dc6B3F47B8aB92301a03a70Ed8F1c70089", "name": "pDELTA", "fullName": "PlanqDeltaToken", "decimals": 18 }
   ],
-  "defaultPair": { "token": "DAI", "base": "ETH" }
+  "defaultPair": { "token": "pDELTA", "base": "PLQ" }
 }
