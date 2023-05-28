@@ -6,7 +6,7 @@
     { "addr": "0x41C63D0d833e09499d330B4fB509A5f938b94aE7", "info": "Deployed 05/28/2023 -- THE CURRENT SMART CONTRACT" }
   ],
   "ethTestnet": false,
-  "ethChainId": 1,
+  "ethChainId": 7070,
   "ethProvider": "http://evm-rpc.planq.network",
   "ethGasPrice": 4000000000,
   "ethAddr": "0x0000000000000000000000000000000000000000",
